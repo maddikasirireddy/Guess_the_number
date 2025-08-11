@@ -1,2 +1,15 @@
 # Number Guessing Game 🎯
-A simple Python-based Number Guessing Game where the computer selects a random number and the player tries to guess it in as few attempts as possible. Perfect for beginners learning Python basics such as loops, conditionals, and random number generation.
+A simple Python number guessing game where you have 5 attempts to guess a random number between a given range.
+The game provides hints whether your guess is too high or too low and uses colorful console output via colorama.
+
+📌 Features
+<ul><li>Random number generation between a user-defined range</li>
+
+<li>Limited attempts (5 tries)</li>
+
+<li>Helpful hints after each guess</li>
+
+<li>Colorful messages for success using colorama</li>
+
+
+
