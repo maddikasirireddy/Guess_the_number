@@ -13,11 +13,11 @@ The game provides hints whether your guess is too high or too low and uses color
 
 📷 Example Gameplay
 
-Enter the minimum number: 1
-Enter the maximum number: 20
-Guess the number between 1 to 20: 10
-Too low! Try again.
-Guess the number between 1 to 20: 15
-Too high! Try again.
+Enter the minimum number: 1<br>
+Enter the maximum number: 20<br>
+Guess the number between 1 to 20: 10<br>
+Too low! Try again.<br>
+Guess the number between 1 to 20: 15<br>
+Too high! Try again.<br>
 Congratulations! You guessed the number in 3 attempts.
 
