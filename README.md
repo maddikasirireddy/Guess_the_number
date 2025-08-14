@@ -9,7 +9,7 @@ The game provides hints whether your guess is too high or too low and uses color
 
 <li>Helpful hints after each guess</li>
 
-<li>Colorful messages for success using colorama</li>
+<li>Colorful messages for success using colorama</li><br>
 
 📷 Example Gameplay
 
